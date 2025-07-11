@@ -5,6 +5,7 @@ const Admissions = () => {
   return (
     <div>
       <Aform/>
+      <h1>hello</h1>
     </div>
   )
 }
